@@ -1,0 +1,15 @@
+.hr-line{
+	border-top: 4px dotted #336699;
+	width: 15%;
+	display: inline-block;
+}
+
+.hr-icon{
+	margin-bottom:10px
+}
+
+.hr-icon .icon{
+	padding:5px;
+	vertical-align:-9px;
+	color:#336699;
+}
